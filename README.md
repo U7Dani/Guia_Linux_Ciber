@@ -1,5 +1,5 @@
 
-# 🚀 Linux para Ciberseguridad - Curso desde 0 🐧
+# 🚀 Linux para Ciberseguridad - Guia desde 0 🐧
 
 Este repositorio contiene una guía completa para aprender Linux desde cero, orientada especialmente al uso de herramientas y programas para ciberseguridad.
 
