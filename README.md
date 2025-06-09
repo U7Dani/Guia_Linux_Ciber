@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/2ff73eca-3a08-46a2-802f-361c1d472179)
 
 # 🚀 Linux para Ciberseguridad - Guia desde 0 🐧
 
